@@ -1,0 +1,22 @@
+{
+  "wheel_id": 627,
+  "structure": "umbrella",
+  "slug": "retainingwallgeelong-116",
+  "project": "retaining-walls-geelong-budget-tips-7ea15a05ac6d1b5816fd9137685",
+  "parent_t1_ref": "retainingwallgeelong-158",
+  "node_role": "feeder",
+  "money_target": "retainingwallgeelong.au",
+  "primary_kw": "retaining walls geelong budget tips",
+  "intended_url": "https://sitesau.github.io/retainingwallgeelong-116/",
+  "tier": "T2",
+  "writeback_nonce": "5862626a3f088055",
+  "links": [
+    {
+      "target_url": "https://sites-e470-2.web.app/retaining-walls-geelong-faq-297c1ec6353f2af86451e9c0ce56601250a/",
+      "anchor": "Retaining Walls Geelong Faq: FAQ and Practical Advice",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "topical"
+    }
+  ]
+}
